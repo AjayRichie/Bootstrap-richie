@@ -1,0 +1,137 @@
+#title{
+  background-color:#c8e5b6;
+}
+#features{
+padding:15% 15%;
+}
+
+#testimonials{
+background-color:#EBD9B4;
+padding:5% 2%;
+text-align: center;
+color:#3C3633;
+font-family:"Anta";
+
+}
+.testimonial-image{
+width:55%;
+border-radius:35%;
+margin:10;
+}
+#press{
+background-color: #d9e5d1;
+text-align: center;
+padding-bottom:5%;
+}
+
+#pricing{
+text-align: center;
+padding: 45px;
+
+}
+
+.card-deck{
+padding: 2%;
+font-family: "Ubuntu";
+
+}
+
+#cta{
+text-align: center;
+background-color: #cae8b6;
+padding-bottom: 1.5%;
+line-height: normal;
+}
+
+#footer{
+text-align: center;
+
+padding:  1.5%;
+
+}
+
+.press-logo{
+margin:2%;
+width:5%;
+}
+
+h2{
+font-size: 2rem;
+}
+
+.icon{
+text-align: center;
+color:#333A73;
+}
+
+.icon:hover{
+color:#333A73;
+}
+
+h1{
+      font-family: "Anta";
+      font-weight: 500;
+      font-style:oblique;
+      color:#1F2544;
+    }
+
+h3{
+font-weight: bold;
+text-align: center;
+padding: 1.5%;
+}
+
+p{
+text-align:center;
+color:#114232;
+line-height: 1;
+
+}
+.container-fluid{
+  padding:1% 7%;
+
+
+}
+body{
+  font-family:"Anta";
+
+
+}
+
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: bold;
+
+  gap: 15px;
+  color:#1B3C73;
+}
+
+.nav-item{
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.btn btn-dark{
+  padding: 0% 0% 0% 10%;
+}
+
+.button-inline{
+padding:2% 2% 2% 0%;
+margin-left:5%;
+margin-top:5%;
+}
+
+.title-image{
+width:400px;
+
+}
+.nav-link{
+  font-size: 2rem;
+  font-weight: bold;
+  color:#1B3C73;
+  
+
+*{
+font-family:fantasy;
+}
+}
